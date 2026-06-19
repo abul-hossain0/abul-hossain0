@@ -1,16 +1,16 @@
-<img align="right" height="500" src="https://scontent.fdac177-1.fna.fbcdn.net/v/t39.30808-6/724577404_895492090249924_2449911346741536638_n.jpg?stp=dst-jpg_tt6&cstp=mx1254x1254&ctp=s1254x1254&_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeH2H3qHgLLxffqWCAdfLQ6vBQMcJrbZK0kFAxwmttkrSXsBnLhZcHoBFEPe-Ou54jEd02RULc68WDfWkzuuAbfx&_nc_ohc=6bfM07oujiIQ7kNvwGQflCj&_nc_oc=AdrsIdxAYdFcIsbC_3a1-FM62k3vHCMFGOM7OFs42nARYvkWPajgDEONap5el5NYdzQ&_nc_zt=23&_nc_ht=scontent.fdac177-1.fna&_nc_gid=rKQzSebBmuOUu7rkGTy1pw&_nc_ss=7b2a8&oh=00_Af8d5aDuOB3x3debf4aAn7BglY0QEOttOl1XDh22mwEUuA&oe=6A3B6744"  />
-
-###
-
 <h1 align="center">👋 Hi, I'm Abul Hossain<br><br>Full Stack Web Engineer | Next.js & TypeScript Developer</h1>
 
 ###
 
-<p align="left">Building modern, scalable, and user-focused web applications with a passion for clean code, performance, and continuous learning.</p>
+<img align="right" height="520" src="https://scontent.fdac177-1.fna.fbcdn.net/v/t39.30808-6/724577404_895492090249924_2449911346741536638_n.jpg?stp=dst-jpg_tt6&cstp=mx1254x1254&ctp=s1254x1254&_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeH2H3qHgLLxffqWCAdfLQ6vBQMcJrbZK0kFAxwmttkrSXsBnLhZcHoBFEPe-Ou54jEd02RULc68WDfWkzuuAbfx&_nc_ohc=6bfM07oujiIQ7kNvwGQflCj&_nc_oc=AdrsIdxAYdFcIsbC_3a1-FM62k3vHCMFGOM7OFs42nARYvkWPajgDEONap5el5NYdzQ&_nc_zt=23&_nc_ht=scontent.fdac177-1.fna&_nc_gid=rKQzSebBmuOUu7rkGTy1pw&_nc_ss=7b2a8&oh=00_Af8d5aDuOB3x3debf4aAn7BglY0QEOttOl1XDh22mwEUuA&oe=6A3B6744"  />
 
 ###
 
-<h3 align="left">🚀 About Me<br>💻 Full Stack Web Engineer from Bangladesh<br>⚡ Specialized in Next.js, TypeScript, React, and Node.js<br>🌱 Always learning new technologies and best practices<br>🔥 Passionate about creating fast, scalable, and responsive web applications<br>🎯 Focused on writing maintainable and high-quality code</h3>
+<h4 align="left">Building modern, scalable, and user-focused web applications with a passion for clean code, performance, and continuous learning.</h4>
+
+###
+
+<h2 align="left">🚀 About Me<br><br>💻 Full Stack Web Engineer from Bangladesh<br>⚡ Specialized in Next.js, TypeScript, React, and Node.js<br>🌱 Always learning new technologies and best practices<br>🔥 Passionate about creating fast, scalable, and responsive web applications<br>🎯 Focused on writing maintainable and high-quality code</h2>
 
 ###
 
