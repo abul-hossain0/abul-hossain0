@@ -1,176 +1,18 @@
-<h1 align="center">👋 Hi, I'm Abul Hossain<br><br>Full Stack Web Engineer | Next.js & TypeScript Developer</h1>
+# 💫 About Me:
+- 👋 Hi, I'm Md. Abul Hossain, a passionate Web Developer.<br>- 🖥️ I'm currently working with -> HTML, CSS, JavaScript, React.js and TypeScript.<br>- ⚛️ I'm currently exploring React.js, Next.js and modern frontend development.<br>- 🌱 I'm continuously learning and improving my Web Development skills.<br>- 💬 Ask me about HTML, CSS, JavaScript, React.js and TypeScript.<br>- 🚀 I'm interested in building modern, responsive and user-friendly web applications.<br>- 📚 I'm always learning new technologies and working on personal projects.<br>- 📫 Feel free to reach out to me through Email.
 
-###
 
-<img align="right" height="400" src="https://scontent.fdac177-1.fna.fbcdn.net/v/t39.30808-6/724577404_895492090249924_2449911346741536638_n.jpg?stp=dst-jpg_tt6&cstp=mx1254x1254&ctp=s1254x1254&_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeH2H3qHgLLxffqWCAdfLQ6vBQMcJrbZK0kFAxwmttkrSXsBnLhZcHoBFEPe-Ou54jEd02RULc68WDfWkzuuAbfx&_nc_ohc=6bfM07oujiIQ7kNvwGQflCj&_nc_oc=AdrsIdxAYdFcIsbC_3a1-FM62k3vHCMFGOM7OFs42nARYvkWPajgDEONap5el5NYdzQ&_nc_zt=23&_nc_ht=scontent.fdac177-1.fna&_nc_gid=rKQzSebBmuOUu7rkGTy1pw&_nc_ss=7b2a8&oh=00_Af8d5aDuOB3x3debf4aAn7BglY0QEOttOl1XDh22mwEUuA&oe=6A3B6744"  />
+## 🌐 Socials:
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/abul-hossain) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/7ev9HawPx) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/abulhossai07) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abul_hossain7) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abul-hossain07) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@abul_hossain) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hossain.web777@gmail.com) 
 
-###
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=abul-hossain0&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=abul-hossain0&theme=cobalt&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=abul-hossain0&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<h4 align="left">Building modern, scalable, and user-focused web applications with a passion for clean code, performance, and continuous learning.</h4>
+---
+[![](https://komarev.com/ghpvc/?username=abul-hossain0&icon=0&color=0)](https://visitcount.itsvg.in)
 
-###
-
-<h2 align="left">🚀 About Me<br><br>💻 Full Stack Web Engineer from Bangladesh<br>⚡ Specialized in Next.js, TypeScript, React, and Node.js<br>🌱 Always learning new technologies and best practices<br>🔥 Passionate about creating fast, scalable, and responsive web applications<br>🎯 Focused on writing maintainable and high-quality code</h2>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/abul-hossain07/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/abul_hossain07" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <a href="https://www.behance.net/abul-hossain" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" width="52" height="40" alt="behance logo"  />
-  </a>
-  <a href="https://www.facebook.com/abulhossai07" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  </a>
-  <a href="abulhossain291555@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://medium.com/@abul_hossain" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
-  </a>
-  <a href="https://call.whatsapp.com/video/aCH8FMpCLlAAMBiojeE4tJ" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-  </a>
-  <a href="https://discord.com/channels/@abul_hossain" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="https://www.instagram.com/abul_hossain7/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://web.telegram.org/@abulhossain07" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
-  </a>
-</div>
-
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=blur&height=60&section=footer&reversal=false&text=%F0%9F%9B%A0%EF%B8%8F%20Tech%20Stack%20&fontSize=40&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=random"  />
-</div>
-
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=30&section=footer&reversal=false&text=Frontend&fontSize=27&fontColor=FFFFFF&fontAlign=7&fontAlignY=50&stroke=-&descSize=10&descAlign=0&descAlignY=0&textBg=false&color=random"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
-</div>
-
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=30&section=footer&reversal=false&text=Backend&fontSize=27&fontColor=FFFFFF&fontAlign=7&fontAlignY=50&stroke=-&descSize=10&descAlign=0&descAlignY=0&textBg=false&color=random"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
-</div>
-
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=30&section=footer&reversal=false&text=Database&fontSize=27&fontColor=FFFFFF&fontAlign=7&fontAlignY=50&stroke=-&descSize=10&descAlign=0&descAlignY=0&textBg=false&color=random"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-</div>
-
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=50&section=footer&reversal=false&text=CMS%20&%20Website%20Builders&fontSize=40&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=0&descAlignY=0&textBg=false&color=gradient"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webflow/webflow-original.svg" height="40" alt="webflow logo"  />
-</div>
-
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=50&section=footer&reversal=false&text=Tools&fontSize=40&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=0&descAlignY=0&textBg=false&color=gradient"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-</div>
-
-###
-
-<h3 align="left">📌 Services<br><br>✔ Full Stack Web Development<br>✔ Modern React & Next.js Applications<br>✔ REST API Development<br>✔ Responsive Website Design<br>✔ Website Redesign & Optimization<br>✔ CMS Development & Customization<br>✔ Performance Optimization<br>✔ Bug Fixing & Maintenance</h3>
-
-###
-
-<h3 align="left">🌟 Current Focus<br><br>Building Full Stack SaaS Applications<br>Advanced Next.js Development<br>TypeScript Best Practices<br>AI-Assisted Development<br>Scalable Web Architecture</h3>
-
-###
-
-<h3 align="left">📈 GitHub Stats<br><br>🚀 Building projects every day<br>📚 Learning continuously<br>💡 Solving real-world problems with code</h3>
-
-###
-
-<h3 align="left">🚀 Featured Projects<br><br>- 🌐 E-Commerce Platform<br>- 📚 LMS Platform<br>- 🏢 Business Website<br>- 📊 Admin Dashboard</h3>
-
-###
-
-<h3 align="left">📫 Connect With Me<br>==============<br><br>GitHub: https://github.com/abul-hossain0<br>LinkedIn: https://www.linkedin.com/in/abul-hossain07/<br>Portfolio: https://www.behance.net/abul-hossain<br>Email: abulhossain291555@gmail.com</h3>
-
-###
-
-<h3 align="left">💡 Motto<br><br>Learn. Build. Improve. Repeat.<br><br>⭐ Thanks for visiting my profile!</h3>
-
-###
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
