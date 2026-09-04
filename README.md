@@ -35,8 +35,8 @@
   <p align="left">
     <a href="https://www.linkedin.com/in/abul-hossain07/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="touhidcodes" height="30" width="40" /></a>
     <a href="https://discord.gg/abul_hossain" target="blank"><img src="https://skillicons.dev/icons?i=discord" alt="touhidcodes#9825" height="30" width="40" /></a>
-    <a href="https://www.facebook.com/abulhossai07" target="blank"><img src="https://skillicons.dev/icons?i=facebook" alt="touhidcodes#9825" height="30" width="40" /></a>
-    <a href="https://www.instagram.com/abul_hossain7/" target="blank"><img src="https://skillicons.dev/icons?i=instagram" alt="touhidcodes#9825" height="30" width="40" /></a>
+    <a href="https://www.facebook.com/abulhossai07" target="blank"><img src="https://img.icons8.com/color/48/facebook-new.png" alt="abulhossai07" height="30" width="40" /></a>
+    <a href="https://www.instagram.com/abul_hossain7/" target="blank"><img src="https://skillicons.dev/icons?i=instagram" alt="abul_hossain7" height="30" width="40" /></a>
     <!-- <a href="https://dev.to/touhidcodes" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="touhidcodes" height="30" width="40" /></a> -->
     <!-- <a href="https://stackoverflow.com/users/22104988" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22104988" height="30" width="40" /></a> -->
   </p>
