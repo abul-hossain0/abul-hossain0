@@ -1,18 +1,108 @@
-# 💫 About Me:
-- 👋 Hi, I'm Md. Abul Hossain, a passionate Web Developer.<br>- 🖥️ I'm currently working with -> HTML, CSS, JavaScript, React.js and TypeScript.<br>- ⚛️ I'm currently exploring React.js, Next.js and modern frontend development.<br>- 🌱 I'm continuously learning and improving my Web Development skills.<br>- 💬 Ask me about HTML, CSS, JavaScript, React.js and TypeScript.<br>- 🚀 I'm interested in building modern, responsive and user-friendly web applications.<br>- 📚 I'm always learning new technologies and working on personal projects.<br>- 📫 Feel free to reach out to me through Email.
+<!--- banner --->
+<img src="./banner/abul-hossain.png" alt="Hello world">
 
+<br/>
 
-## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/abul-hossain) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/7ev9HawPx) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/abulhossai07) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abul_hossain7) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abul-hossain07) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@abul_hossain) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hossain.web777@gmail.com) 
+<!--- title --->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi 👋, I'm md ABUL HOSSAIN</h1></summary>
+    <!--- typo --->
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=500&lines=Technical+Instructor+@PH;Passionate+Full+Stack+Web+Developer;JavaScript+Enthusiast;Interested+in+Bioinformatics" alt="Typing SVG" /></a>
+  </ul>
+</div>
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=abul-hossain0&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=abul-hossain0&theme=cobalt&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=abul-hossain0&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br/>
+
+<!--- about --->
+
+- 👋 Hi, I’m **[@abul-hossain0](https://github.com/abul-hossain0)**
+- 🖥️ I’m currently working on **React.js, Next.js, Typescript and Redux** for frontend development.
+- 🗄️ Using **Node.js, Express.js, MongoDB, Mongoose, PostgreSQL, and Prisma** for the backend.
+- 🛠️ I’m currently learning **React Native, GraphQL, Docker and AWS**.
+- 💬 Ask me about **Full-Stack (React, Next, Node, Express, MongoDB, PostgreSQL)**.
+<!-- - 🌐 Explore My Portfolio **[TouhidCodes](https://touhidcodes.vercel.app/)** and My **[Resume](https://drive.google.com/uc?export=download&id=15hKPeWqITR4Sa_OncoDhpUdaNgnLJhBO)** -->
+- 📝 I regularly write articles on **[LinkedIn](https://www.linkedin.com/in/abul-hossain07/)**
+- 📫 Feel free to reach me out **[Email](hossain.web777@gmail.com)**
+
+<br/>
+
+<!--- socials --->
+
+## <img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp" width="35"><b> FOLLOW ME ON SOCIALS:</b>
+
+<div>
+  <p align="left">
+    <a href="https://www.linkedin.com/in/abul-hossain07/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="touhidcodes" height="30" width="40" /></a>
+    <a href="https://discord.gg/abul_hossain" target="blank"><img src="https://skillicons.dev/icons?i=discord" alt="touhidcodes#9825" height="30" width="40" /></a>
+    <!-- <a href="https://dev.to/touhidcodes" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="touhidcodes" height="30" width="40" /></a> -->
+    <!-- <a href="https://stackoverflow.com/users/22104988" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22104988" height="30" width="40" /></a> -->
+  </p>
+</div>
+
+<br/>
+
+<!--- technology --->
+
+## <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width ="35"><b> TECHNOLOGY STACK:</b>
+
+### Languages:
+
+[![Languages](https://skillicons.dev/icons?i=html,css,javascript,typescript,graphql)](https://github.com/touhidcodes)
+
+### CSS Frameworks & Libraries:
+
+[![CSS Frameworks & Libraries](https://skillicons.dev/icons?i=tailwind,materialui,bootstrap)](https://github.com/touhidcodes)
+
+### JavaScript Frameworks & Libraries:
+
+[![JavaScript Frameworks & Libraries](https://skillicons.dev/icons?i=react,next,redux,nodejs,express)](https://github.com/touhidcodes)
+
+### Database & Model:
+
+[![Database & Model](https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase)](https://github.com/touhidcodes)
+
+### Deployment Platform:
+
+[![Deployment Platform](https://skillicons.dev/icons?i=vercel,netlify,firebase)](https://github.com/touhidcodes)
+
+### Design & Graphics:
+
+[![Design & Graphics](https://skillicons.dev/icons?i=figma)](https://github.com/touhidcodes)
+
+### Tools & Technologies:
+
+[![Tools & Technologies](https://skillicons.dev/icons?i=windows,ubuntu,notion,git,github,vscode,postman,docker)](https://github.com/touhidcodes)
+
+<br/>
+
+<!--- statistics --->
+
+## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GITHUB STATISTICS & ANALYSIS:</b>
+
+### GitHub Contributions:
+
+![Snake Grid](https://github.com/abul-hossain0/contribution-snake/blob/output/grid.svg)
+
+### GitHub Statistics:
+
+| <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=abul-hossain0&theme=swift&hide_border=true&include_all_commits=false&count_private=false" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abul-hossain0&theme=swift&hide_border=true&include_all_commits=false&count_private=false&layout=compact" /></a> |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+### Repository Stats & Streak:
+
+| <a><img align="center" src="https://github-contributor-stats.vercel.app/api?username=abul-hossain0&limit=5&theme=swift&combine_all_yearly_contributions=true&hide_border=true" /></a> | <a><img align="center" src="https://streak-stats.demolab.com/?user=abul-hossain0" /></a> |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+
+<br/>
+
+<!--- random quote --->
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width ="30"><b> RANDOM DEV QUOTE:</b>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=light"/>
 
 ---
-[![](https://komarev.com/ghpvc/?username=abul-hossain0&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!--- visit count --->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abul-hossain0&label=Profile%20views&color=0e75b6&style=flat" alt="abul-hossain0" /> </p>
